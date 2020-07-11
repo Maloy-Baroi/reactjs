@@ -1,0 +1,184 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.top-banner{
+    background-color: #f0fff0;
+    height: 600px;
+}
+
+.logo{
+    width: 150px;
+    height: auto;
+}
+
+.menu-item{
+    margin-right: 5px;
+    margin-left: 5px;
+    font-weight: 700;
+    color: black;
+}
+
+.sign-in-btn{
+    background-color: #21b573;
+    border-radius: 30px;
+    width: 90px;
+    height: 40px;
+    text-align: center;
+}
+
+.banner-part{
+    margin-top: 80px;
+}
+
+.banner-image{
+    width: 100%;
+}
+
+.banner-part h1{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+
+.get-started-btn{
+    background-color: #21b573;
+    border-radius: 30px;
+    width: 160px;
+    height: 40px;
+}
+
+.icon-row{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.icon-col{
+    margin: 10px;
+    height: 270px;
+    background-color: #f6fffc;
+    text-align: center;
+}
+
+#student{
+    background-color: white;
+    box-shadow: 2px 2px 5px;
+}
+
+.icon-col img{
+    margin-top: 30px;
+    width: 66px;
+    height: 85px;
+}
+
+.icon-col .p-title{
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    color: #413960;
+}
+
+.icon-col .p-learn-anythings{
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: -2px;
+}
+
+.container-online-courses{
+    margin-top: 100px;
+}
+
+.container-online-courses h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.container-online-courses .card-group{
+    margin-top: 50px;
+}
+
+.card{
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.card img{
+    width: 300px;
+    margin: auto;
+}
+
+.card-footer {
+    background-color: white;
+    border: none;
+}
+
+.Date{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.seats-of-course {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.container-testimonial{
+    margin-top: 100px;
+}
+
+.container-testimonial img{
+    width: 100px;
+    height: 80px;
+    float: right;
+}
+
+.container-testimonial h3{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+
+.container-testimonial p{
+    text-align: left;
+}
+
+.row-testimonial{
+    margin-top: 80px;
+}
+
+.column-1{
+    margin-top: 50px;
+    text-align: left;
+}
+.column-2{
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    padding-left: 40px;
+    /*text-align: center;*/
+    align-content: center;
+}
+
+.footer-div{
+    margin-top: 100px;
+    padding-left: 100px;
+    background-color: #282531;
+    height: 370px;
+    color: white;
+}
+
+.footer{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #CDCDCD;
+}
